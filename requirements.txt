@@ -1,0 +1,5 @@
+werkzeug
+flask
+tensorflow
+gevent
+scikit-learn
