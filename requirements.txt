@@ -1,7 +1,5 @@
-werkzeug
 flask
 tensorflow-cpu
 gevent
-scikit-learn
 gunicorn
 scikit-image
