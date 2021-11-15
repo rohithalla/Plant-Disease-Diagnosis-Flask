@@ -1,5 +1,5 @@
 werkzeug
 flask
-tensorflow
+tensorflow-cpu
 gevent
 scikit-learn
