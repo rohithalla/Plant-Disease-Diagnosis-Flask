@@ -64,7 +64,7 @@ def upload():
                          'Tomato__Tomato_YellowLeaf__Curl_Virus', 'Tomato__Tomato_mosaic_virus', 'Tomato_healthy']
         a = preds[0]
         ind=np.argmax(a)
-        print('Prediction:', disease_class[ind])
+        print('Prediction:', disease_class[14])
         result=disease_class[ind]
         return result
     return None
