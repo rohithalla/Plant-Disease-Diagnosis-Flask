@@ -65,7 +65,7 @@ def upload():
         a = preds[0]
         ind=np.argmax(a)
         print('Prediction:', disease_class[14])
-        result=disease_class[ind]
+        result=disease_class[14]
         return result
     return None
 
